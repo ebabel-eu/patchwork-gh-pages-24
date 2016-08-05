@@ -1,3 +1,9 @@
+---
+layout: page
+title: Work History
+permalink: /work-history/
+---
+
 #### Senior Front-end Developer
 * Amsterdam Area, Netherlands
 * Since October 2013, to date.
